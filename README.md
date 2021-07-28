@@ -1,5 +1,4 @@
 # Country-Music-Hall-of-Fame
-Web scraping done in Python with BeautifulSoup to extract and list data.
 
 ## Web Scraping the Country Music Hall of Fame
 
